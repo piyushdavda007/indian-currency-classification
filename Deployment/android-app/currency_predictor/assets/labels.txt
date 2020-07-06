@@ -1,0 +1,6 @@
+This is fifty rupees.
+This is five hundred rupees.
+This is hundred rupees.
+This is ten rupees.
+This is thousand rupees.
+This is twenty rupees.
